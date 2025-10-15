@@ -1,6 +1,6 @@
-## Hi 
+## Hi! I’m Leonardo Almeida
 
-Hi! I’m Leonardo Almeida, Software Engineer passionate about DevOps, software development, and machine learning. I enjoy solving complex technical challenges and building scalable solutions.
+Software Engineer passionate about DevOps, software development, and machine learning. I enjoy solving complex technical challenges and building scalable solutions.
 
 **Socials:**
 - [Portfolio](https://leoalmpt.pages.dev)
